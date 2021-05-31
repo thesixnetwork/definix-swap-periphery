@@ -1,6 +1,6 @@
-# Definix Router
+# Definix-Klaytn Router
 
-### Bsc-Test
+### Klaytn-Test
 
 The following assumes the use of `node@>=10`.
 
